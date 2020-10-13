@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 2e1d0d3f28b406545a044a71dab61ecd
+timeCreated: 1517083536
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: peppa_0
+    21300002: peppa_1
+    21300004: peppa_2
+    21300006: peppa_3
+    21300008: peppa_4
+    21300010: peppa_5
+    21300012: peppa_6
+    21300014: peppa_7
+    21300016: peppa_8
+    21300018: peppa_9
+    21300020: peppa_10
+    21300022: peppa_11
+    21300024: peppa_12
+    21300026: peppa_13
+    21300028: peppa_14
+    21300030: peppa_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 270
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peppa_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 569
+        width: 156
+        height: 165
+      alignment: 9
+      pivot: {x: 0.35672474, y: 0.6354603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 430
+        width: 281
+        height: 305
+      alignment: 9
+      pivot: {x: 0.48011482, y: 0.37633696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 674
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 639
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 513
+        width: 177
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 556
+        width: 108
+        height: 65
+      alignment: 9
+      pivot: {x: 0.900971, y: 0.86535174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 469
+        width: 119
+        height: 65
+      alignment: 9
+      pivot: {x: 0.06565896, y: 0.92982554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 321
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 365
+        width: 89
+        height: 95
+      alignment: 9
+      pivot: {x: 0.82961386, y: 0.9264324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 338
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 241
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 253
+        width: 101
+        height: 91
+      alignment: 9
+      pivot: {x: 0.8734373, y: 0.929826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 186
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 410
+        height: 234
+      alignment: 9
+      pivot: {x: 0.42844975, y: 0.3806042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 30
+        width: 154
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peppa_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 26
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

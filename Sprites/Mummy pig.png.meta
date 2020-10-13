@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 7e609dac8a7f32042a245ed7b7262f00
+timeCreated: 1542554103
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mummy pig_0
+    21300002: Mummy pig_1
+    21300004: Mummy pig_2
+    21300006: Mummy pig_3
+    21300008: Mummy pig_4
+    21300010: Mummy pig_5
+    21300012: Mummy pig_6
+    21300014: Mummy pig_7
+    21300016: Mummy pig_8
+    21300018: Mummy pig_9
+    21300020: Mummy pig_10
+    21300022: Mummy pig_11
+    21300024: Mummy pig_12
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 750
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mummy pig_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3971
+        width: 293
+        height: 259
+      alignment: 9
+      pivot: {x: 0.9546775, y: 0.9414647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3934
+        width: 235
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_2
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3948
+        width: 246
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3764
+        width: 469
+        height: 460
+      alignment: 9
+      pivot: {x: 0.02723209, y: 0.97237706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2381
+        width: 1577
+        height: 1496
+      alignment: 9
+      pivot: {x: 0.5956087, y: 0.44960716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1854
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 938
+        width: 2045
+        height: 1289
+      alignment: 9
+      pivot: {x: 0.4392823, y: 0.38646978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1837
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1827
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 346
+        width: 336
+        height: 311
+      alignment: 9
+      pivot: {x: 0.80355597, y: 0.97343993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_10
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 476
+        width: 371
+        height: 303
+      alignment: 9
+      pivot: {x: 0.7271067, y: 0.96483934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 463
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy pig_12
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 56
+        width: 435
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
